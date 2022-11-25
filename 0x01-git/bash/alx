@@ -1,4 +1,5 @@
 #!/bin/bash
-Echo 'ALX'
+Echo 'ALX School'
 #!/bin/bash
-Echo 'ALX'
+Echo 'ALX School'
+case 
